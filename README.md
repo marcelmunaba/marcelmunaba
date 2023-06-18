@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Marcel!
+
+I'm a Computer Science Student at the Technical University of Munich.
+
+📫 How to reach me : marcelmunaba@gmail.com 
 
 <!--
 **marcelmunaba/marcelmunaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
