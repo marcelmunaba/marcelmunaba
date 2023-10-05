@@ -2,7 +2,11 @@
 
 I'm a Computer Science Student at the Technical University of Munich.
 
-📫 How to reach me : marcelmunaba@gmail.com 
+🔭 Currently working on my game Slash Survivors in my spare time during my time in university.
+
+👯 Open to collaborate on anything and currently looking for a part-time (Werkstudent) job.
+
+📫 How to reach me : marcelmunaba@gmail.com  or marcel.munaba@tum.de
 
 <!--
 **marcelmunaba/marcelmunaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
