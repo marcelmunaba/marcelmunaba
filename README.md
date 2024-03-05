@@ -2,7 +2,7 @@
 
 I'm a Computer Science Student at the Technical University of Munich.
 
-🔭 Currently working on my game "Slash Survivors" in my spare time.
+🔭 Currently working on mori and the game "Slash Survivors" in my spare time.
 
 👯 Open to collaborate on anything and currently looking for a part-time (Werkstudent) job.
 
