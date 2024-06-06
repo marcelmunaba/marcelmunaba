@@ -4,7 +4,7 @@ I'm a Computer Science Student at the Technical University of Munich.
 
 🔭 Currently working on mori.
 
-👯 Open to collaborate on anything and currently looking for a part-time (Werkstudent) job.
+👯 Open to collaborate on anything.
 
 📫 How to reach me : marcelmunaba@gmail.com  or marcel.munaba@tum.de
 
