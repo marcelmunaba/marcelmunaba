@@ -2,7 +2,7 @@
 
 I'm a Computer Science Student at the Technical University of Munich.
 
-🔭 Currently working on mori and TaxiRL.
+🔭 Currently working on BenchBit.
 
 👯 Open to collaborate on anything.
 
