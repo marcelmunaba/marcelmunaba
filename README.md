@@ -2,7 +2,7 @@
 
 I'm a Computer Science Student at the Technical University of Munich.
 
-🔭 Currently working on BenchBit.
+🔭 Currently not working on any projects.
 
 👯 Open to collaborate on anything.
 
